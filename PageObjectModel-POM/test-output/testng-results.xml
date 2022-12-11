@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9216" started-at="2022-12-08T20:47:27Z" finished-at="2022-12-08T20:47:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9216" started-at="2022-12-08T20:47:27Z" finished-at="2022-12-08T20:47:36Z">
+      <class name="com.obsqura.selenium.pageObjectModel_POM.SimpleFormDemo">
+        <test-method status="PASS" signature="initialiseBrowser()[pri:0, instance:com.obsqura.selenium.pageObjectModel_POM.SimpleFormDemo@cb644e]" name="initialiseBrowser" is-config="true" duration-ms="7136" started-at="2022-12-09T02:17:27Z" finished-at="2022-12-09T02:17:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialiseBrowser -->
+        <test-method status="PASS" signature="verifyDragAndDrop()[pri:0, instance:com.obsqura.selenium.pageObjectModel_POM.SimpleFormDemo@cb644e]" name="verifyDragAndDrop" duration-ms="1866" started-at="2022-12-09T02:17:34Z" finished-at="2022-12-09T02:17:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDragAndDrop -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.obsqura.selenium.pageObjectModel_POM.SimpleFormDemo@cb644e]" name="closeBrowser" is-config="true" duration-ms="180" started-at="2022-12-09T02:17:36Z" finished-at="2022-12-09T02:17:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.obsqura.selenium.pageObjectModel_POM.SimpleFormDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

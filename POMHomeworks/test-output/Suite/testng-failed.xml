@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.obsqura.selenium.POMHomeworks.SeleniumBlogspot">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="verifyRedCheckboxSelected"/>
+          <include name="verifyOperaRadioButtonSelected"/>
+          <include name="browserClose"/>
+        </methods>
+      </class> <!-- com.obsqura.selenium.POMHomeworks.SeleniumBlogspot -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
